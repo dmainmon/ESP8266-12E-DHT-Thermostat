@@ -5,3 +5,5 @@ Copy the contents of the libraries folder to your Arduino libraries folder. On a
 
 documents\Arduino\libraries\
 
+Video demonstration https://youtu.be/uq5OR8RlGLc
+
